@@ -6,13 +6,18 @@ This is the result of 5 days coding training following up steps and adding my ow
 
 ### **User Stories**
 ```
-As a tea lover user, I can know how to make a lovely cup of tea so I want to read the ingredients and preparation.
+As a tea lover user,
+I can know how to make a lovely cup of tea so I want to read the ingredients and preparation.
 
-As a user, I want to see an attractive layout with nice picture and clear steps so that encourages me to read until ending up.
+As a user,
+I want to see an attractive layout with nice picture and clear steps so that encourages me to read until ending up.
 
-As a user, I would like to find out ingredient instructions so I can get a better understanding of what I need to enjoy of my tea.
+As a user, 
+I would like to find out ingredient instructions so I can get a better understanding of what I need to enjoy of my tea.
 
-As a user, I want to see the preparation steps so I can finally make a proper cup of tea.
+As a user, 
+I want to see the preparation steps so I can finally make a proper cup of tea.
+
 ```
 
 ## **Approach** 
