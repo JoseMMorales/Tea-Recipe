@@ -2,7 +2,7 @@
 ## **Tea Recipe**
 ### **Description**
 
-This is the result of 5 days coding training following up steps and adding my own research to solve the challenge. The final achievement was giving same look as presented by instructor initially using HTML, CSS and Javascript. Being responsive and easy to interact with. 
+This is the result of 5 days coding training following up steps and adding my own research to solve the challenge. The final achievement was giving same look as presented by instructor initially using HTML, CSS and JavaScript. Being responsive and easy to interact with. 
 
 ### **User Stories**
 ```
@@ -28,7 +28,7 @@ So I can finally make a proper cup of tea.
 
 My first step was a research online about technologies which were going to be used in the challenge, applying the skills learnt on daily tasks.
 
-Therefore, having an idea of the user requirements, I have started implementing the website using HTML, CSS and Javascript.
+Therefore, having an idea of the user requirements, I have started implementing the website using HTML, CSS and JavaScript.
 
 ### **Screenshot of the website**
 
@@ -36,7 +36,7 @@ Therefore, having an idea of the user requirements, I have started implementing 
 
 ## **Getting started** 
 
-This instructtions will get you a copy of the project up on your local machine.
+These instructions will get you a copy of the project up on your local machine.
 
 ### **Installing**
 
@@ -50,8 +50,8 @@ This instructtions will get you a copy of the project up on your local machine.
 
 * HTML
 * CSS
-* Javascript
+* JavaScript
 
 ## **Author** 
 
-Jose M Morales
+Jose MMorales
